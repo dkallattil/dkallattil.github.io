@@ -1,4 +1,31 @@
 h1 { 
-  font-family: 'Roboto Slab', serif;
-
+	font-family: 'Roboto Slab', serif;
+	position: relative;
+	text-align: center;
+	color: #7244fc;
 }
+
+h2 { 
+	font-family: 'Roboto Slab', serif;
+	position: relative;
+	text-align: center;
+	color: black;
+}
+
+
+.btn {
+  font-family: 'Roboto Slab', serif;
+  text-decoration: none;
+  color: #7244fc;
+}
+
+.btn:hover {
+  background: #7244fc;
+  text-decoration: none;
+  border-radius: 39px;
+  padding: 5px 10px 5px 10px;
+  color: #ffffff;
+  -webkit-border-radius: 39;
+  -moz-border-radius: 39;
+}
+
