@@ -1,29 +1,32 @@
 h1 { 
-	font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Medium', sans-serif;
 	position: relative;
 	text-align: center;
-	color: #7244fc;
+	color: #635ddd;
 }
 
 h2 { 
-	font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
 	position: relative;
-	text-align: center;
+	text-align: left;
 	color: black;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 
 
 .btn {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Black', sans-serif;
   text-decoration: none;
-  color: #7244fc;
+  color: #49aaff;
 }
 
 .btn:hover {
-  background: #7244fc;
+  background: #635ddd;
   text-decoration: none;
   border-radius: 39px;
-  padding: 5px 10px 5px 10px;
+  padding: 5px 5px 5px 5px;
   color: #ffffff;
   -webkit-border-radius: 39;
   -moz-border-radius: 39;
