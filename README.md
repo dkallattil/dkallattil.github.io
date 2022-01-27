@@ -1,3 +1,2 @@
 # dkallattil.github.io
-# test...
 
